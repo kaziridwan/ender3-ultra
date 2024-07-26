@@ -32,7 +32,8 @@ This is the documentation for all the mods that I've done on my ender 3 over 4 y
 1. Webcam feed
 2. Obico server
 3. Linear Y axis rails
-4. Load Cell based Z Offset on Hotbed
+4. Load Cell based Z Offset on Hotbed (Can be based on PRtouch on Ender 3v3 se/ke )
+5. BTT Eddy
 
 
 ## Mods on order of priority
