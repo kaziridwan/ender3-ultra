@@ -60,3 +60,4 @@ This is the documentation for all the mods that I've done on my ender 3 over 4 y
 1. BTT filament sensor
 2. Filament dryer
 3. Y axis linear rails (it really improves print quality, but I am waiting for linear rails compatible with load cell sensors)
+4. BTT eddy
