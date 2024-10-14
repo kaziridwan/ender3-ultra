@@ -34,6 +34,7 @@ This is the documentation for all the mods that I've done on my ender 3 over 4 y
 3. Linear Y axis rails
 4. Load Cell based Z Offset on Hotbed (Can be based on PRtouch on Ender 3v3 se/ke )
 5. BTT Eddy
+6. Linear Z axis rails (actually this seem to be more important than Y axis, because Z v-slot wheels seems to loosen up due to added weight, and needs to be tightened as a regular maintenance every few months)
 
 
 ## Mods on order of priority
@@ -56,9 +57,20 @@ This is the documentation for all the mods that I've done on my ender 3 over 4 y
 
 ### Phase 4 - Quality
 1. Linear X axis rails
+2. Linear Z axis
+3. Linear Y axis
 
 ### Extra set 01 - Quality of Life
 1. BTT filament sensor
 2. Filament dryer
 3. Y axis linear rails (it really improves print quality, but I am waiting for linear rails compatible with load cell sensors)
 4. BTT eddy
+
+### 2024 updates
+
+- BTT eddy (recommended to buy a flat usb 3 angle connector because the mcu enclosure box doesn't leave much room left for connecting anything on the USB ports)
+- PEZ (Polyurea) build plate
+- ceramic hotend
+- custom nozzle wiper mount
+- conditional turn off of filament sensor at layer 0-2 and turn on at layer 3
+- custom cable organizer
