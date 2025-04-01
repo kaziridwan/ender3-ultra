@@ -5,7 +5,7 @@ This is the documentation for all the mods that I've done on my ender 3 over 4 y
 
 ## Mods
 
-1. CR-touch
+1. Klipper (offcourse)
 2. Dual Z axis
 3. Flexible PEI bed
 4. Silicon Bed Spacers
@@ -86,3 +86,9 @@ This is the documentation for all the mods that I've done on my ender 3 over 4 y
 ### 2025 updates
 
 - Z axis linear rails
+
+---
+
+### Past Mods
+
+- CR Touch (replaced with BTT Eddy)
