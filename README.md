@@ -87,16 +87,24 @@ This is the documentation for all the mods that I've done on my ender 3 over 4 y
 ### 2025 updates
 
 - Z axis linear rails
+- 
+
+I've been thinking about endgame this year, and the endgame mod should incorporate as many open source mods as possible, with projects like voron, to keep the machine futureproof,
+as well as to make it compatible with multimaterial system like BTT VVD.
+
+I also wanted to incorporate a laser head / CNC (as we have linear rails now), but I haven't found any viable open source projects to
+pick up for the mod right now. I was inspired by some of the early printers like Creality CP-01 and Snapmaker. Even wanted to have a rolling bed, like in creality CR-30.
+But more I am modding it, more I am realizing the importance of not trying to make it too complicated.
+
+The problem with all in one devices is, it ends up being mediocre in all things. I've also felt myself hitting the ceiling of FDM printing while trying to design and print intricate things
+for watches. I might even cancel out the plan to upgrade the toolhead.
+
+The only reason why my wish to create an all-in-one device has popped up again, might be due to the release of Bambulab H2D, which excited me for a bit, specially because of the prospect
+of an all in one machine with Bambulab's software-hardware integration. But then again, the toolchanges aren't automatic. And I'd rather buy a larger X1C, Makera Carvera, Cricut and laser
+cutter/ engravers separately (also throw in a high-res resin printer/ UV printer; anything that helps in desktop manufacturing/ prototyping).
 
 ---
 
 ### Past Mods
 
 - CR Touch (replaced with BTT Eddy)
-
----
-
-## Endgame mod
-
-The endgame mod should incorporate as many open source mods as possible, with projects like voron, to keep the machine futureproof.
-I want to change the 
