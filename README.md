@@ -21,7 +21,8 @@ This is the documentation for all the mods that I've done on my ender 3 over 4 y
 14. Klipper!! (offcourse)
 15. Linear X Axis Rails
 16. Linear Z Axis Rails
-17. BTT Eddy
+17. BTT Eddy ( you'll need to buy a right angle usb connector to fit it in the E3EZ port unless you want to mod the mainboard enclosure )
+18. Nozzle wiper
 
 ## Recommended Accessories
 
@@ -92,3 +93,10 @@ This is the documentation for all the mods that I've done on my ender 3 over 4 y
 ### Past Mods
 
 - CR Touch (replaced with BTT Eddy)
+
+---
+
+## Endgame mod
+
+The endgame mod should incorporate as many open source mods as possible, with projects like voron, to keep the machine futureproof.
+I want to change the 
