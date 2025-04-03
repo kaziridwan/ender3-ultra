@@ -117,7 +117,7 @@ of an all in one machine with Bambulab's software-hardware integration. But then
 cutter/ engravers separately (also throw in a high-res resin printer/ UV printer; anything that helps in desktop manufacturing/ prototyping).
 
 Although I wanted to skip the Stealthburner toolhead, as Sprite Extruder is more than enough, but its "almost" unavoidable as Sprite Extruder has reached end of life in 2025. I will consider a Stealthburner
-mod sometime in future. Thankfully due to X-Axis linear rails, this seems to be quite possible, also opening up the possibility of other toolheads like cnc and laser. Only gripe here is, Stealthburner is a lot more expensive than Sprite Extruder pro, and you're not getting much more.
+mod sometime in future. Thankfully due to X-Axis linear rails, this seems to be quite possible, also opening up the possibility of other toolheads like cnc and laser. Only gripe here is, Stealthburner is a lot more expensive than Sprite Extruder pro, and you're not getting much more. Sprite Extruder kit comes at around 45$ (kit + mount + carriage) where stealthburner kit can go for anywhere between $80 - $150.
 
 ---
 
