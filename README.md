@@ -1,7 +1,20 @@
-This is the documentation for all the mods that I've done on my ender 3 over 4 years (since 2020).
+Initially this was to document all the mods that I've done on my ender 3 since 2020.
 
 ## Intentions with the modifications
 
+### Why this exists?
+
+Creality Ender 3 has been a gamechanger in the 3d printing community, whether you like to admit it or not. But, the downside (and maybe
+a good thing) with it has been its mod-ability / upgradability.
+
+Although you can mod an ender 3 into a switchwire, but that really defeats the purpose of it being an "ender 3", specially because of taking the
+core-xz route. This repo exists mainly to showcase an ender 3, that could be modded (somewhat) easily, and somewhat defying its End-Of-Life amidst
+being in the Voron / BambuLab / AMS / CoreXY era.
+
+The mods done here keeps the main spirit of ender 3 alive, but add enhancements and quality of life improvements in the era of high speed, highly reliable
+3d printers. Also, the mods here are a bit opinionated on the fact too not overdo it, because you can always buy a Bambulab / Voron / new gen Creality printers for cheap.
+
+In short, this mod is to make Ender 3 a highly reliable, no-headache machine that keeps up with (most of the) state of the art in 3d printing.
 
 ## Mods
 
