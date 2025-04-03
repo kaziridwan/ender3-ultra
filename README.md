@@ -116,6 +116,9 @@ The only reason why my wish to create an all-in-one device has popped up again, 
 of an all in one machine with Bambulab's software-hardware integration. But then again, the toolchanges aren't automatic. And I'd rather buy a larger X1C, Makera Carvera, Cricut and laser
 cutter/ engravers separately (also throw in a high-res resin printer/ UV printer; anything that helps in desktop manufacturing/ prototyping).
 
+Although I wanted to skip the Stealthburner toolhead, because Sprite Extruder is more than enough, but because Sprite Extruder has reached end of life in 2025, I will consider a Stealthburner
+mod sometime in future.
+
 ---
 
 ### Past Mods
