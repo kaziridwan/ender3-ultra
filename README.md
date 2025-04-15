@@ -121,6 +121,10 @@ mod sometime in future. Thankfully due to X-Axis linear rails, this seems to be 
 
 ---
 
+### Random tip if you are using BTT Eddy
+Please ensure that your cable isn't coiled or any coiled cable is nearby. The Eddy comes with a rather long cable, don't coil it up for cable management; it creates Electro-Magnetic noise, and causes a frequent disconnects
+from Eddy. If possible cut it short and resolder the cable socker (its easier to resolder the JST end).
+
 ### Past Mods
 
 - CR Touch (replaced with BTT Eddy)
