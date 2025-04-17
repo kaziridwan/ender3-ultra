@@ -100,7 +100,8 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 ### 2025 updates
 
 - Z axis linear rails
-- 
+- Nozzle Wiper v2
+- Height Adjustable mount for eddy
 
 I've been thinking about endgame this year, and the endgame mod should incorporate as many open source mods as possible, with projects like voron, to keep the machine futureproof,
 as well as to make it compatible with multimaterial system like BTT VVD.
@@ -116,15 +117,17 @@ The only reason why my wish to create an all-in-one device has popped up again, 
 of an all in one machine with Bambulab's software-hardware integration. But then again, the toolchanges aren't automatic. And I'd rather buy a larger X1C, Makera Carvera, Cricut and laser
 cutter/ engravers separately (also throw in a high-res resin printer/ UV printer; anything that helps in desktop manufacturing/ prototyping).
 
+#### Discontinuation of Sprite Extruder
+
 Although I wanted to skip the Stealthburner toolhead, as Sprite Extruder is more than enough, but its "almost" unavoidable as Sprite Extruder has reached end of life in 2025. I will consider a Stealthburner
 mod sometime in future. Thankfully due to X-Axis linear rails, this seems to be quite possible, also opening up the possibility of other toolheads like cnc and laser. Only gripe here is, Stealthburner is a lot more expensive than Sprite Extruder pro, and you're not getting much more. Sprite Extruder kit comes at around 45$ (kit + mount + carriage) where stealthburner kit can go for anywhere between $80 - $150.
 
 ---
 
-### Random tip if you are using BTT Eddy
+#### Random tip if you are using BTT Eddy
 Please ensure that your cable isn't coiled or any coiled cable is nearby. The Eddy comes with a rather long cable, don't coil it up for cable management; it creates Electro-Magnetic noise, and causes a frequent disconnects
 from Eddy. If possible cut it short and resolder the cable socker (its easier to resolder the JST end).
 
-### Past Mods
+## Past Mods
 
 - CR Touch (replaced with BTT Eddy)
