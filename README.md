@@ -27,7 +27,7 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 7. Tall legs
 8. Inset display mount
 9. BTT Manta E3EZ + CM1 Board
-10. Sprite Pro Extruder
+10. Sprite Pro Extruder (12.5mm3)
 11. Spriteburner Mod (with 5010 fan)
 12. Bimetal Heatbreak
 13. Hardened Steel Nozzle
@@ -36,7 +36,8 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 16. Linear Z Axis Rails
 17. BTT Eddy ( you'll need to buy a right angle usb connector to fit it in the E3EZ port unless you want to mod the mainboard enclosure )
 18. Nozzle wiper
-
+19. Ceramic Hotend for Sprite Pro Extruder (32mm3)
+    
 ## Recommended Accessories
 
 1. Fiament Dryer
