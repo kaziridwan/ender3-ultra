@@ -36,7 +36,7 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 16. Linear Z Axis Rails
 17. BTT Eddy ( you'll need to buy a right angle usb connector to fit it in the E3EZ port unless you want to mod the mainboard enclosure )
 18. Nozzle wiper
-19. Ceramic Hotend for Sprite Pro Extruder (32mm3)
+19. Ceramic Hotend for Sprite Pro Extruder (28.5mm vs 32mm3)
     
 ## Recommended Accessories
 
