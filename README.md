@@ -53,6 +53,7 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 5. ✅ BTT Eddy
 6. ✅ Linear Z axis rails (actually this seem to be more important than Y axis, because Z v-slot wheels seems to loosen up due to added weight, and needs to be tightened as a regular maintenance every few months) 
 7. BigTreeTech VVD (Might need to upgrade the toolhead to stealthburner)
+8. [3MS](https://3ms.3dcoded.xyz/) based multimaterial printing
 
 
 ## Mods on order of priority
