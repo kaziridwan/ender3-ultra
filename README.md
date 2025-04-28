@@ -52,8 +52,6 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 4. Load Cell based Z Offset on Hotbed (Can be based on PRtouch on Ender 3v3 se/ke )
 5. ✅ BTT Eddy
 6. ✅ Linear Z axis rails (actually this seem to be more important than Y axis, because Z v-slot wheels seems to loosen up due to added weight, and needs to be tightened as a regular maintenance every few months) 
-7. BigTreeTech VVD (Might need to upgrade the toolhead to stealthburner)
-8. [3MS](https://3ms.3dcoded.xyz/) based multimaterial printing (Happy-Hare based)
 
 
 ## Mods on order of priority
@@ -80,15 +78,35 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 2. Linear Z axis (essential for reducing z axis v slot wheel loosening issue)
 
 ### Phase 4.1 - Extra set 01 - Quality of Life
-1. BTT filament sensor
+1. BTT filament sensor (turned out to be less harm than help, as it puts tension in the filament and causes first layer issues)
 2. Filament dryer
 4. Y axis linear rails (it really improves print quality, but I am waiting for linear rails compatible with load cell sensors)
 5. BTT eddy
 
-### Phase 5 - Multimaterial & Multitooling
+### Phase 4.2 - Manual Filament Swap
+1. Nozzle Cleaner (was exteremely helpful, it was custom designed with silicon brush in mind, will share the stl and design files)
+2. Custom manual swap g-codes
+
+### Phase 5 - Multimaterial & Multitooling (skipped)
 1. Voron Stealthburner
 2. Stealthburner easy tool change mod (need to design)
-3. BTT VVD
+3. BigTreeTech VVD (Might need to upgrade the toolhead to stealthburner)
+4. [Happy-Hare](https://github.com/moggieuk/Happy-Hare) based MMU, most probably [3MS](https://3ms.3dcoded.xyz/) for multimaterial printing
+
+>> I've done a good deal of research on this by now, the MMU setup takes away the "soul" of this project.
+>> MMUs are too complicated and comes with a lot of bagage.
+>> However the best solution I think would be 3MS, but I'd like to change the extruder, and design a custom filament feeder, might take some
+>> inspiration from Bambulab's [AMS gear feeding system](https://www.reddit.com/r/BambuLab/comments/12x65pt/hopefully_grinding_ams_gears_doesnt_turn_into_a/), but
+>> not entirely.
+>> The feeder (or extruder) has to engage only when a filament is being fed or retracted, so it needs a central gear for torque deliver, and two levered gears,
+>> with ratched mechanismto engage or disengage it in its direction.
+>> Finally to comply with the cleanliness / tidyness of the project, the AMS has be able to be disconnected both physically and at software level easily.
+>> First solution being to keep the power and usb cable in a cable wrap, and female USB and power connectors coming from the printer.
+>> Second solution should be well kept klipper segments that can be commented out and disabled easily.
+>>
+>> Still, I think this solution is too much far fetched, not worth the trouble in the short run, but I am keeping notes if I build an AMS in future. I barely
+>> need to print anything multi-color; it creates too much waste, and when I do, its gonna be only few swaps, so I am happy with the current semi-manual-auto-clean
+>> setup, and it should be more than enough for 99% single color prints that I do. 
 
 ### 2024 updates
 
