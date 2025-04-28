@@ -106,7 +106,7 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 >>
 >> Still, I think this solution is too much far fetched, not worth the trouble in the short run, but I am keeping notes if I build an AMS in future. I barely
 >> need to print anything multi-color; it creates too much waste, and when I do, its gonna be only few swaps, so I am happy with the current semi-manual-auto-clean
->> setup, and it should be more than enough for 99% single color prints that I do. 
+>> setup, and it should be more than enough for 99% single color prints that I do. I't best to focus on my other project to work on something that i'll barely use.
 
 ### 2024 updates
 
