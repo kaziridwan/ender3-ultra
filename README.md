@@ -64,7 +64,7 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 ### Phase 2 - Klipper
 1. BTT Manta E3EZ + CB1 Board
 2. Sprite Pro Extruder
-3. Flexible PEI Buildplate
+3. Flexible ~~PEI~~ PEZ (cold) Buildplate
 
 ### Phase 3 - Speed
 1. Hardened Steel Nozzle
