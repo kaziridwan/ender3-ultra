@@ -87,7 +87,7 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 1. Nozzle Cleaner (was exteremely helpful, it was custom designed with silicon brush in mind, will share the stl and design files)
 2. Custom manual swap g-codes
 
-### Phase 5 - Multimaterial & Multitooling (skipped)
+### Phase 4.3 - Multimaterial & Multitooling (skipped)
 1. Voron Stealthburner
 2. Stealthburner easy tool change mod (need to design)
 3. BigTreeTech VVD (Might need to upgrade the toolhead to stealthburner)
@@ -107,6 +107,15 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 >> Still, I think this solution is too much far fetched, not worth the trouble in the short run, but I am keeping notes if I build an AMS in future. I barely
 >> need to print anything multi-color; it creates too much waste, and when I do, its gonna be only few swaps, so I am happy with the current semi-manual-auto-clean
 >> setup, and it should be more than enough for 99% single color prints that I do. I't best to focus on my other project to work on something that i'll barely use.
+
+### Phase 5 (2025) - Stealthburner
+The goal in 2025 now is to keep the printer alive. While most of the things by now are in open ecosystem, but it seems like the toolhead has been discontinued by creality,
+although it lasted for a while, and had great accessories. I can still make this run for 3-4 years atleast, but the toolhead itself is sort of a bottleneck for many future
+things to come.
+
+Stealthburner is an easy choice, its cheap to build, cheap to maintain, and will ensure that I can buy parts for cheap. And I already have a mount for it after the linear rail
+upgrade. Also, seems like all the cheap ceramic hotends are using E3D-style groove mounts. Although I have no intention to do the MMU upgrade right now, but atleast this upgrade
+will open up that door "easily", I dont have to custom design the parts as much (although I don't completely hate that process, specially now as the printer is working so reliably)
 
 ### 2024 updates
 
