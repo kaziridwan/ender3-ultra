@@ -34,7 +34,7 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 14. Klipper!! (offcourse)
 15. Linear X Axis Rails
 16. Linear Z Axis Rails
-17. BTT Eddy ( you'll need to buy a right angle usb connector to fit it in the E3EZ port unless you want to mod the mainboard enclosure )
+17. BTT Eddy ( you'll need to buy a right angle usb connector to fit it in the E3EZ port unless you want to mod the mainboard enclosure ) (doing the [z-offset](https://github.com/bigtreetech/Eddy?tab=readme-ov-file#z-offset))
 18. Nozzle wiper
 19. Ceramic Hotend for Sprite Pro Extruder (28.5mm vs 32mm3)
     
