@@ -117,6 +117,11 @@ Stealthburner is an easy choice, its cheap to build, cheap to maintain, and will
 upgrade. Also, seems like all the cheap ceramic hotends are using E3D-style groove mounts. Although I have no intention to do the MMU upgrade right now, but atleast this upgrade
 will open up that door "easily", I dont have to custom design the parts as much (although I don't completely hate that process, specially now as the printer is working so reliably)
 
+## Phase 5.1 Live Z offset with Eddy-NG
+This is the final straw to make the printer "worry free".
+This also means we'll be changing our Klipper to be Kalico for easy maintenance.
+It will create worry free Z-Offset Calculation with eddy probe and a bit of sensorless homing.
+
 ### 2024 updates
 
 - BTT eddy (recommended to buy a flat usb 3 angle connector because the mcu enclosure box doesn't leave much room left for connecting anything on the USB ports)
