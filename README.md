@@ -120,7 +120,7 @@ will open up that door "easily", I dont have to custom design the parts as much 
 
 ## Phase 5.1 Live Z offset with Eddy-NG
 This is the final straw to make the printer "worry free".
-This also means we'll be changing our Klipper to be Kalico for easy maintenance.
+This also means we'll be changing our Klipper to be [Kalico](https://github.com/KalicoCrew/kalico) for easy maintenance.
 It will create worry free Z-Offset Calculation with eddy probe and a bit of sensorless homing.
 Check out [Eddy-NG](https://github.com/vvuk/eddy-ng) for more info.
 
