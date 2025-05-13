@@ -37,6 +37,7 @@ In short, this mod is to make Ender 3 a highly reliable, no-headache machine tha
 17. BTT Eddy ( you'll need to buy a right angle usb connector to fit it in the E3EZ port unless you want to mod the mainboard enclosure ) (doing the [z-offset](https://github.com/bigtreetech/Eddy?tab=readme-ov-file#z-offset))
 18. Nozzle wiper
 19. Ceramic Hotend for Sprite Pro Extruder (28.5mm vs 32mm3)
+20. Eddy-NG
     
 ## Recommended Accessories
 
@@ -121,6 +122,7 @@ will open up that door "easily", I dont have to custom design the parts as much 
 This is the final straw to make the printer "worry free".
 This also means we'll be changing our Klipper to be Kalico for easy maintenance.
 It will create worry free Z-Offset Calculation with eddy probe and a bit of sensorless homing.
+Check out [Eddy-NG](https://github.com/vvuk/eddy-ng) for more info.
 
 ### 2024 updates
 
