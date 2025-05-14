@@ -123,6 +123,9 @@ This is the final straw to make the printer "worry free".
 This also means we'll be changing our Klipper to be [Kalico](https://github.com/KalicoCrew/kalico) for easy maintenance.
 It will create worry free Z-Offset Calculation with eddy probe and a bit of sensorless homing.
 Check out [Eddy-NG](https://github.com/vvuk/eddy-ng) for more info.
+--- updates
+Seems like this will be in the mainline firmware sometime soon (when it's stable) according to [this](https://github.com/bigtreetech/Eddy/issues/43) github issue. With that update,
+I'll have no more nozzle digging the bed, and zero manual z-offset calibration.
 
 ### 2024 updates
 
@@ -163,6 +166,11 @@ mod sometime in future. Thankfully due to X-Axis linear rails, this seems to be 
 #### Random tip if you are using BTT Eddy
 Please ensure that your cable isn't coiled or any coiled cable is nearby. The Eddy comes with a rather long cable, don't coil it up for cable management; it creates Electro-Magnetic noise, and causes a frequent disconnects
 from Eddy. If possible cut it short and resolder the cable socker (its easier to resolder the JST end).
+
+#### Thoughts on future upgrades
+The printer seem to be future proofed because of usage of many open/ community approved parts used in the build. Definitely this printer can be updated with MMU and other optional toolheads like, Laser / CNC/ Plotter / Cutter,
+but all those seem to be fairly unnecessary upgrades for this printer. I didn't even bother to upgrade the Y axis V-Wheels to linear rails, because it doesn't help much.
+The main philosophy of this mod, is to make a highly reliable workhorse of a 3d printer, that requires low maintenance; and that has been pretty much achieved. Any additions that diminish the reliability or maintenance will not be considered.
 
 ## Past Mods
 
