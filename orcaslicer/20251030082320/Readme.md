@@ -1,6 +1,6 @@
 For instructions on how to export profiles [click here](https://www.reddit.com/r/OrcaSlicer/comments/1c70ks0/exporting_printer_profiles/)
 
-`File > Export > Export Configs`
+`File > Export > Export Preset Bundles`
 
 To import 
 
