@@ -1,22 +1,9 @@
-How to import and export orca profiles
+For instructions on how to export profiles [click here](https://www.reddit.com/r/OrcaSlicer/comments/1c70ks0/exporting_printer_profiles/)
 
-# Exporting
+`File > Export > Export Preset Bundles`
 
-![image](https://github.com/user-attachments/assets/76b30b4c-f7fe-42c7-903e-ac1017bac12e)
+To import 
 
-![image](https://github.com/user-attachments/assets/c5ba1455-d762-4f18-897c-bbae2139430d)
+`File > Import`
 
-![image](https://github.com/user-attachments/assets/04ed79de-4adc-4f8e-9dba-7d3966389dcc)
-
-![image](https://github.com/user-attachments/assets/51c6d7a1-53fd-476d-8684-7bbe6cd7b7eb)
-
-![image](https://github.com/user-attachments/assets/5e6ffbba-f6f3-4afa-8847-2482bce06deb)
-
-
-# Importing
-
-By the same process. ie.
-
-1. download the .zip file for the user config, and extract it
-2. open the orca user config directory from `Hamburger Menu > Help > Show Configuration Folder`
-3. Merge the downloaded `user` directory into the target `user` directory
+<img width="1969" height="1163" alt="image" src="https://github.com/user-attachments/assets/faebc3a4-3868-4dcf-b770-8954ab594f69" />
